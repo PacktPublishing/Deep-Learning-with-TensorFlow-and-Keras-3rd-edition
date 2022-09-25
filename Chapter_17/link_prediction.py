@@ -14,7 +14,7 @@ Tensorflow and DGL re-implementation of PyTorch and DGL example [Link Prediction
 # Commented out IPython magic to ensure Python compatibility.
 # %env DGLBACKEND=tensorflow
 
-!pip install dgl
+# !pip install dgl
 
 import dgl
 import dgl.data
