@@ -4,12 +4,12 @@
 @copyright 2022, Packt Publishing<br>
 
 ## Getting started
-All the code can be found in the chapter folders. You can run the notebook (.ipynb) files on cloud platforms like [Google Colab](https://colab.research.google.com/) or your local machine. Note that some chapters require a GPU to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
+All the code can be found in the chapter folders. You can run these code files on cloud platforms like [Google Colab](https://colab.research.google.com/) or your local machine. Note that some chapters require a GPU to run in a reasonable amount of time, so we recommend one of the cloud platforms as they come pre-installed with CUDA.
 
 
 
 ### Running on a cloud platform
-To run these notebooks on a cloud platform, just click on one of the badges in the table below:
+To run the notebook (.ipynb) files on a cloud platform, just click on one of the badges in the table below:
 
 | Chapter | Colab | Kaggle | Gradient | StudioLab |
 | :-------- | :-------- | :------- |:------- |:------- |
